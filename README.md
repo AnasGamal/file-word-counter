@@ -1,4 +1,4 @@
-# Word Counter
+# File Word Counter
 
 Word Counter is a simple Java application that reads a text file and counts the occurrences of each word and character in the file. It then produces a sorted output of the number of characters and words detected, as well as also a sorted list of the words and characters.
 
